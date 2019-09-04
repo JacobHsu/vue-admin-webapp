@@ -57,6 +57,10 @@ npm run serve
 
 `deploy`分支执行 deploy.sh 文件脚本执行 npm run build 并上传至 gh-pages 分支更新 github pages 页面
 
+### 文件
+
+[正确姿势开发vue后台管理系统](https://juejin.im/post/5d69f6676fb9a06b0b1c8cd2?utm_source=gold_browser_extension)  
+
 ### 功能
 
 ```
